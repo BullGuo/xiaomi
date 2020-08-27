@@ -45,28 +45,27 @@
 ## 页面截图
 
 **首页**
-
-![图片加载失败](https://raw.githubusercontent.com/BullGuo/xiaomi/master/showimg/01.png)
-![图片加载失败](https://raw.githubusercontent.com/BullGuo/xiaomi/master/showimg/02.png)
+![图片加载失败](https://gitee.com/bullguo/iomg1/blob/master/showimg/01.png)
+![图片加载失败](https://gitee.com/bullguo/iomg1/blob/master/showimg/02.png)
 
 **商品列表页**
 
-![图片加载失败](https://raw.githubusercontent.com/BullGuo/xiaomi/master/showimg/03.png)
+![图片加载失败](https://gitee.com/bullguo/iomg1/blob/master/showimg/03.png)
 
 **商品详情页**
 
-![图片加载失败](https://raw.githubusercontent.com/BullGuo/xiaomi/master/showimg/04.png)
+![图片加载失败](https://gitee.com/bullguo/iomg1/blob/master/showimg/04.png)
 
 **购物车**
 
-![图片加载失败](https://raw.githubusercontent.com/BullGuo/xiaomi/master/showimg/05.png)
+![图片加载失败](https://gitee.com/bullguo/iomg1/blob/master/showimg/05.png)
 
 **登录**
-![图片加载失败](https://raw.githubusercontent.com/BullGuo/xiaomi/master/showimg/06.png)
+![图片加载失败](https://gitee.com/bullguo/iomg1/blob/master/showimg/06.png)
 
 **注册**
 
-![图片加载失败](https://raw.githubusercontent.com/BullGuo/xiaomi/master/showimg/07.png)
+![图片加载失败](https://gitee.com/bullguo/iomg1/blob/master/showimg/07.png)
 
 
 
